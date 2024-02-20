@@ -1,4 +1,5 @@
-This will scan your network every 30 seconds, which you can change the interval time. When the program detects a device that has joined the network (either new device or a devide rejoining), this will send you a message via telegram.
+This will scan your network every 30 seconds, which you can change the interval time. When the program detects a device that 
+has joined the network (either new device or a devide rejoining), this will send you a message via telegram.
 
 first run - pip install python-telegram-bot scapy
 
